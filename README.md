@@ -21,10 +21,8 @@ git push
 ```powershell
 git pull origin main
 ```
-:::warning
-這次需要輸入下面指令。
-:::
-2. 這一項非必須，如有需要，我會做紅色警告註解在此項目上方。
+### 本次必須
+2. 這一項非必須，如有需要，我會做註解在此項目上方。
 ```powershell
 npm install
 ```
