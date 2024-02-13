@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[688],{4856:e=>{e.exports=JSON.parse('{"permalink":"/nephrologist/blog/tags/\u6a19\u7c64","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

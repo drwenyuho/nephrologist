@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[576],{6524:e=>{e.exports=JSON.parse('[{"label":"\u6a19\u7c64","permalink":"/nephrologist/blog/tags/\u6a19\u7c64","count":1}]')}}]);

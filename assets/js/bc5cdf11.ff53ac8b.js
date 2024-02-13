@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[368],{7396:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/nephrologist/blog/tags/docusaurus","allTagsPath":"/nephrologist/blog/tags","count":4,"unlisted":false}')}}]);

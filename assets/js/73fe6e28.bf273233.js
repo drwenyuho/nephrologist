@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[0],{4364:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/nephrologist/blog/tags/hello","allTagsPath":"/nephrologist/blog/tags","count":2,"unlisted":false}')}}]);
