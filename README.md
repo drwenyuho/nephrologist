@@ -1,41 +1,34 @@
-# Website
-
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
+## 文章更新流程
+1. 先預覽部落格樣式
+```powershell title='terminal'
+npm start
 ```
-$ yarn
+2. 預覽確認無誤，依下列指令推上 github:
+```powershell
+git add .
 ```
-
-### Local Development
-
+```powershell
+git commit -m "你的紀錄"
 ```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```powershell
+git push
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## 若我有更新程式碼
+那請先依照下列步驟更新你本地專案內容。
 
-### Deployment
-
-Using SSH:
-
+1. 更新程式碼
+```powershell
+git pull origin main
 ```
-$ USE_SSH=true yarn deploy
+:::warning
+這次需要輸入下面指令。
+:::
+2. 這一項非必須，如有需要，我會做紅色警告註解在此項目上方。
+```powershell
+npm install
 ```
 
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## 學習資源
+1. [我的網站](https://codefictionist.com/docs/%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C/CodeFictionist/use)
+2. [docusaurus 官方文件](https://docusaurus.io/zh-CN/docs)
