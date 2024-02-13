@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[8835],{72:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/nephrologist/blog/tags/facebook","allTagsPath":"/nephrologist/blog/tags","count":1,"unlisted":false}')}}]);
